@@ -1,0 +1,36 @@
+.title{
+    color: blue;
+    background-color: red;
+}
+.h2{
+    color: blue;
+    background-color: blue;
+
+}
+title{
+    color: blue;
+}
+
+section{
+
+    color: blue;
+}
+
+h5{
+    font: "Time New Roman";
+    font-size: 30;
+    border-radius: 40;
+    background-origin: unset;
+    letter-spacing: 25;
+    height: 100;
+    width: 100;
+}
+
+h5:hover{
+    grid-row: 10;
+    size: 20;
+    color: red;
+    font-size: 50;
+}
+
+
